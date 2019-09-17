@@ -1,4 +1,4 @@
-package com.pattern.single;
+package com.pattern.simplefactory;
 
 import java.util.HashMap;
 import java.util.Map;
